@@ -1,0 +1,71 @@
+0 almonds
+1 aloo gravy
+2 apple
+3 avocado
+4 banana
+5 burger
+6 cake
+7 cashew
+8 chaat
+9 Class 11
+10 chappati
+11 chicken biryani
+12 chicken curry
+13 chole bhature
+14 dahi vada
+15 dal makhani
+16 dal tadka
+17 dhokla
+18 dosa
+19 egg curry
+20 falooda
+21 figs
+22 french fries
+23 fried rice
+24 gajar halwa
+25 grapes
+26 guava
+27 gulab jamun
+28 ice cream
+29 idli
+30 jalebi
+31 kachori
+32 kadhi
+33 khichdi
+34 kiwi
+35 kulfi
+36 litti chokha
+37 mango
+38 medu vada
+39 naan
+40 neyyappam
+41 noodles
+42 omellete
+43 orange
+44 pakoda
+45 paneer curry
+46 pani puri
+47 paniyaram
+48 pasta
+49 pav bhaji
+50 pears
+51 peda
+52 pineapple
+53 pistachio
+54 pizza
+55 poha
+56 pongal
+57 raj kachori
+58 rajma
+59 rasogulla
+60 rasmalai
+61 samosa
+62 sandwich
+63 spring roll
+64 strawberry
+65 tandoori chicken
+66 upma
+67 uttapam
+68 vada pav
+69 walnut
+70 watermelon
