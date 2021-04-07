@@ -1,71 +1,71 @@
-0 almonds
-1 aloo gravy
-2 apple
-3 avocado
-4 banana
-5 burger
-6 cake
-7 cashew
-8 chaat
-9 chana masala
-10 chappati
-11 chicken biryani
-12 chicken curry
-13 chole bhature
-14 dahi vada
-15 dal makhani
-16 dal tadka
-17 dhokla
-18 dosa
-19 egg curry
-20 falooda
-21 figs
-22 french fries
-23 fried rice
-24 gajar halwa
-25 grapes
-26 guava
-27 gulab jamun
-28 ice cream
-29 idli
-30 jalebi
-31 kachori
-32 kadhi
-33 khichdi
-34 kiwi
-35 kulfi
-36 litti chokha
-37 mango
-38 medu vada
-39 naan
-40 neyyappam
-41 noodles
-42 omellete
-43 orange
-44 pakoda
-45 paneer curry
-46 pani puri
-47 paniyaram
-48 pasta
-49 pav bhaji
-50 pears
-51 peda
-52 pineapple
-53 pistachio
-54 pizza
-55 poha
-56 pongal
-57 raj kachori
-58 rajma
-59 rasogulla
-60 rasmalai
-61 samosa
-62 sandwich
-63 spring roll
-64 strawberry
-65 tandoori chicken
-66 upma
-67 uttapam
-68 vada pav
-69 walnut
-70 watermelon
+ almonds : 164/ounce
+ aloo gravy : 204/cup
+ apple : 95/fruit
+ avocado : 322/fruit
+ banana : 110/fruit
+ burger : 540/serving
+ cake : 262/serving
+ cashew : 163/ounce
+ chaat : 242/serving
+ chana masala : 281/cup
+ chappati : 120/piece
+ chicken biryani : 292/cup
+ chicken curry : 243/cup
+ chole bhature : 511/serving 
+ dahi vada : 89/piece
+ dal makhani : 330/cup
+ dal tadka : 222/cup
+ dhokla : 152/piece
+ dosa : 168/serving
+ egg curry : 211/cup
+ falooda : 170/serving
+ figs : 37/fruit
+ french fries : 365/serving
+ fried rice : 238/cup
+ gajar halwa : 275/cup
+ grapes : 104/cup
+ guava : 37/fruit
+ gulab jamun : 150/piece
+ ice cream : 273/cup
+ idli : 58/piece
+ jalebi : 150/piece
+ kachori : 83/piece
+ kadhi : 210/cup
+ khichdi : 238/cup
+ kiwi : 42/fruit
+ kulfi : 184/serving
+ litti chokha : 144/serving
+ mango : 202/fruit
+ medu vada : 135/piece
+ naan : 262/piece
+ neyyappam : 105/piece
+ noodles : 196/cup
+ omellete : 323/piece
+ orange : 69/fruit
+ pakoda : 19/piece
+ paneer curry : 367/cup
+ pani puri : 152/piece
+ paniyaram : 60/piece
+ pasta : 221/cup
+ pav bhaji : 390/serving
+ pears : 101/fruit
+ peda : 40/piece
+ pineapple : 453/fruit
+ pistachio : 161/ounce
+ pizza : 285/slice
+ poha : 158/cup
+ pongal : 319/cup
+ raj kachori : 83/piece
+ rajma : 252/cup
+ rasogulla : 120/piece
+ rasmalai : 220/piece
+ samosa : 262/piece
+ sandwich : 155/serving 
+ spring roll : 148/roll
+ strawberry : 29/fruit
+ tandoori chicken : 297/cup
+ upma : 132/cup
+ uttapam : 160/piece
+ vada pav : 263/piece
+ walnut : 185/ounce
+ watermelon : 45/serving
