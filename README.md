@@ -1,4 +1,4 @@
-# catDogIdentifier
+# Calorie Counter
 
 A new Flutter project.
 
